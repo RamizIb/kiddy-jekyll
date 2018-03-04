@@ -1,0 +1,26 @@
+.row {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.row--main {
+  width: 100%;
+
+  box-sizing: border-box;
+}
+
+.row--aside {
+  width: 100%;
+
+  box-sizing: border-box;
+}
+
+.row--horizontal {
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  .card {
+    width: 100%;
+  }
+}

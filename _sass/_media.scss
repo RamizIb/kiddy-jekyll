@@ -1,0 +1,58 @@
+@media (min-width: 800px) {
+
+  .container {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  
+  .row--main {
+    width: 65%;
+    padding-right: 15px;
+  }
+
+  .row--aside {
+    width: 35%;
+    padding-left: 15px;
+  }
+
+  .card--w {
+    width: 48%;
+  }
+
+  .footer {
+
+    .col {
+      width: 45%;
+    }
+  }
+
+  .row--horizontal {
+    
+    flex-wrap: nowrap;
+
+    .card {
+      width: 24%;
+    }
+  }
+
+  .post {
+    padding: 20px;
+  }
+
+  .post__title {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .post__number {
+    margin-bottom: 0;
+  }
+}
+
+@media (min-width: 960px) {
+  
+}
+
+@media (min-width: 1140px) {
+  
+}
