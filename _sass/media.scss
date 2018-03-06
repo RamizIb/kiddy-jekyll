@@ -4,18 +4,15 @@
     padding-left: 30px;
     padding-right: 30px;
   }
-  
-  .row--main {
-    width: 65%;
-    padding-right: 15px;
-  }
 
-  .row--aside {
-    width: 35%;
-    padding-left: 15px;
-  }
+  // .container {
 
-  .card--w {
+  //   .post-card:nth-child(3) {
+  //     width: 100%;
+  //   }
+  // }
+
+  .post-card {
     width: 48%;
   }
 
@@ -23,15 +20,6 @@
 
     .col {
       width: 45%;
-    }
-  }
-
-  .row--horizontal {
-    
-    flex-wrap: nowrap;
-
-    .card {
-      width: 24%;
     }
   }
 

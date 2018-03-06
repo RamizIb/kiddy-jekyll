@@ -1,5 +1,5 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# Only the main scss file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
 
@@ -12,20 +12,23 @@ $fontawesome-color: #ff0000;
 // Width of the content area
 
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "normalize",
-        "main",
-        "container",
-        "row",
-        "column",
-        "footer",
-        "header",
-        "navbar",
-        "card",
-        "button",
-        "jumbotron",
-        "post",
-        "helpers",
-        "media"
-;
+// Import partials from `scss_dir` (defaults to `_scss`)
+
+@import "normalize";
+@import "main";
+
+@import "container";
+@import "row";
+
+@import "footer";
+@import "header";
+@import "navbar";
+
+@import "post";
+
+@import "post-card";
+@import "jumbotron";
+@import "button";
+
+@import "helpers";
+@import "media";

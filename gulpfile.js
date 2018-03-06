@@ -30,6 +30,7 @@ gulp.task('watch', function() {
   gulp.watch('_layouts/*.html', ['jekyll-rebuild']),
   gulp.watch('_posts/*.md', ['jekyll-rebuild']),
   gulp.watch('_sass/*.scss', ['jekyll-rebuild']),
+  gulp.watch('assets/**', ['jekyll-rebuild']),
   gulp.watch('css/*.scss', ['jekyll-rebuild']),
   gulp.watch('js/*.js', ['jekyll-rebuild']);
 });
