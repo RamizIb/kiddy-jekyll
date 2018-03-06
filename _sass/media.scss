@@ -3,24 +3,10 @@
   .container {
     padding-left: 30px;
     padding-right: 30px;
-  }
 
-  // .container {
-
-  //   .post-card:nth-child(3) {
-  //     width: 100%;
-  //   }
-  // }
-
-  .post-card {
-    width: 48%;
-  }
-
-  .footer {
-
-    .col {
-      width: 45%;
-    }
+    column-count: 2;
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
   }
 
   .post {
@@ -35,6 +21,17 @@
   .post__number {
     margin-bottom: 0;
   }
+
+  .container-footer {
+
+    .footer__brand {
+      width: 48%;
+    }
+
+    .footer__contact {
+      width: 48%;
+    }
+  }
 }
 
 @media (min-width: 960px) {
@@ -42,5 +39,5 @@
 }
 
 @media (min-width: 1140px) {
-  
+
 }
