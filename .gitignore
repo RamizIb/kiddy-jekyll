@@ -10,5 +10,4 @@ includ_html/
 node_modules/
 template/
 .sass-cache/
-_site/
 Thumbs.db
