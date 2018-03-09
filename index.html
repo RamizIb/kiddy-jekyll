@@ -16,8 +16,8 @@ title: Лучшее для детей и родителей в сети!
 
       <div class="card__body">
 
-        {% if post.cite %}
-        <strong class="card__category">{{ post.cite }}</strong>
+        {% if post.type %}
+        <strong class="card__type">{{ post.type }}</strong>
         {% else %}
         {% endif %}
 
@@ -25,7 +25,7 @@ title: Лучшее для детей и родителей в сети!
         <div class="card__date"><i class="far fa-clock"></i>{% include date.html date=post.date %}</div>
         
         {% if post.description %}
-        <div class="card__text">
+        <div class="card__description">
           <p>{{ post.description }}</p>
         </div>
         {% else %}
@@ -35,7 +35,5 @@ title: Лучшее для детей и родителей в сети!
     </a>
   </div>
   {% endfor %}
-
-  {% include jumbotron.html %}
 
 </div><!-- /.container -->

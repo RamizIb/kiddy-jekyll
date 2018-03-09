@@ -3,10 +3,10 @@
   .container {
     padding-left: 30px;
     padding-right: 30px;
+  }
 
-    column-count: 2;
-    -moz-column-count: 2;
-    -webkit-column-count: 2;
+  .post-card {
+    width: 48%;
   }
 
   .post {
