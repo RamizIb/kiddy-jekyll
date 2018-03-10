@@ -1,6 +1,6 @@
 ---
 layout: single-post
-title: Детские магазины, подборка №2
+title: Детские магазины, №2
 description: Bebakids, Диномама, GlorYes и ToyWay - одни из лучших детских интернет магазинов!
 date: 07.03.2018
 type: Подборка

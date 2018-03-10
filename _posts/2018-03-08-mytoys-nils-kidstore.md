@@ -1,6 +1,6 @@
 ---
 layout: single-post
-title: Детские магазины, подборка №3
+title: Детские магазины, №3
 description: MyToys.ru, Nils.ru, Kidstore.ru – детки довольны, мамы спокойны!
 date: 08.03.2018
 type: Подборка

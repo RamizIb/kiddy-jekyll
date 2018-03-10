@@ -1,6 +1,6 @@
 ---
 layout: single-post
-title: Детские магазины, подборка №4
+title: Детские магазины, №4
 description: Магазин Жили были, Kinderly.ru, Elc-russia.ru и нежная Kideria.ru!
 date: 08.03.2018
 type: Подборка

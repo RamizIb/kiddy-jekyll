@@ -1,4 +1,4 @@
-@media (min-width: 800px) {
+@media (min-width: 700px) {
 
   .container {
     padding-left: 30px;
@@ -38,6 +38,34 @@
   
 }
 
-@media (min-width: 1140px) {
+@media (min-width: 1000px) {
+
+  .post-card {
+    width: 32%;
+  }
+
+  .post-card:first-child {
+    width: 62%;
+  }
+
+  .post-card:nth-child(2) {
+    width: 36%;
+  }
+
+  .post-card:nth-child(3) {
+    width: 36%;
+  }
+
+  .post-card:nth-child(4) {
+    width: 62%;
+  }
+
+  .post-card:nth-child(5) {
+    width: 48%;
+  }
+
+  .post-card:nth-child(6) {
+    width: 48%;
+  }
 
 }
