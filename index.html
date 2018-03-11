@@ -19,13 +19,7 @@ image: /assets/img/kiddy-today-share.jpg
 
       <div class="card__body">
 
-        {% if post.type %}
-        <strong class="card__type">{{ post.type }}</strong>
-        {% else %}
-        {% endif %}
-
         <h3 class="card__title">{{ post.title }}</h3>
-        <div class="card__date"><i class="far fa-clock"></i>{% include date.html date=post.date %}</div>
         
         {% if post.description %}
         <div class="card__description">
@@ -33,7 +27,15 @@ image: /assets/img/kiddy-today-share.jpg
         </div>
         {% else %}
         {% endif %}
-        
+
+        <div class="card__date">
+          <i class="far fa-clock"></i>{% include date.html date=post.date %}
+          {% if post.type %}
+          <span class="card__type">{{ post.type }}</span>
+          {% else %}
+          {% endif %}
+        </div>
+
       </div>
     </a>
   </div>

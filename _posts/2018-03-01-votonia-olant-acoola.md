@@ -2,7 +2,7 @@
 layout: single-post
 title: Детские магазины, №1
 description: Вотоня, Олант и Акула...  что это такое и о чем речь?
-date: 06.03.2018
+date: 01.03.2018
 type: Подборка
 categories: compilation
 status: article

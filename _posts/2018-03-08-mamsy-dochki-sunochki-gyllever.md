@@ -1,10 +1,11 @@
 ---
 layout: single-post
-title: Детские магазины, подборка №6
+title: Детские магазины, №6
 description: Целая философия покупок детских товаров с наибольшей выгодой для любимого чада и кошелька!
-date: 10.03.2018
+date: 08.03.2018
 type: Подборка
 categories: compilation
+status: article
 image: /assets/img/mamsy-dochki-sunochki-gulliver-compressor.jpg
 ---
 

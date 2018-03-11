@@ -17,7 +17,7 @@ layout: default
 
 <div class="container">
 
-  {% for post in site.posts limit:2 offset:1 %}
+  {% for post in site.posts limit:2 offset:2 %}
   <div class="post-card">
     <a href="{{ post.url }}">
 
@@ -28,13 +28,7 @@ layout: default
 
       <div class="card__body">
 
-        {% if post.type %}
-        <strong class="card__type">{{ post.type }}</strong>
-        {% else %}
-        {% endif %}
-
         <h3 class="card__title">{{ post.title }}</h3>
-        <div class="card__date"><i class="far fa-clock"></i>{% include date.html date=post.date %}</div>
         
         {% if post.description %}
         <div class="card__description">
@@ -42,7 +36,15 @@ layout: default
         </div>
         {% else %}
         {% endif %}
-        
+
+        <div class="card__date">
+          <i class="far fa-clock"></i>{% include date.html date=post.date %}
+          {% if post.type %}
+          <span class="card__type">{{ post.type }}</span>
+          {% else %}
+          {% endif %}
+        </div>
+
       </div>
     </a>
   </div>

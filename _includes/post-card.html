@@ -1,13 +1,30 @@
 <div class="post-card">
   <a href="{{ post.url }}">
-    <img src="assets/img/votonia-olant-acoola.jpg" alt="Магазины для детей Вотоня, Олант и Акула">
+
+    {% if post.image %}
+    <img src="{{ post.image }}" alt="{{ post.title }}">
+    {% else %}
+    {% endif %}
+
     <div class="card__body">
-      <strong class="card__category">{{ post.categories }}</strong>
+
       <h3 class="card__title">{{ post.title }}</h3>
-      <div class="card__date"><i class="far fa-clock"></i>{% include date.html date=post.date %}</div>
-      <div class="card__text">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, quasi? Lorem ipsum dolor sit amet.</p>
+      
+      {% if post.description %}
+      <div class="card__description">
+        <p>{{ post.description }}</p>
       </div>
+      {% else %}
+      {% endif %}
+
+      <div class="card__date">
+        <i class="far fa-clock"></i>{% include date.html date=post.date %}
+        {% if post.type %}
+        <span class="card__type">{{ post.type }}</span>
+        {% else %}
+        {% endif %}
+      </div>
+
     </div>
   </a>
 </div>

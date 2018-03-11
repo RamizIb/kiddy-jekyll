@@ -2,7 +2,7 @@
 layout: single-post
 title: Детские магазины, №5
 description: Сегодня у нас Акушерство.ру, Умница.ру и еще парочка уютных магазинов для детей и мам!
-date: 09.03.2018
+date: 07.03.2018
 type: Подборка
 categories: compilation
 status: article
