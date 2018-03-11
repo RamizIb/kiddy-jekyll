@@ -5,6 +5,7 @@ description: Bebakids, Диномама, GlorYes и ToyWay - одни из лу�
 date: 07.03.2018
 type: Подборка
 categories: compilation
+status: article
 image: /assets/img/bebakids-dinomama-toyway-compressor.jpg
 ---
 

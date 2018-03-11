@@ -5,6 +5,7 @@ description: Целая философия покупок детских тов�
 date: 10.03.2018
 type: Подборка
 categories: compilation
+status: article
 image: /assets/img/mamsy-dochki-sunochki-gulliver-compressor.jpg
 ---
 

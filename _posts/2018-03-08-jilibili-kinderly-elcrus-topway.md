@@ -5,6 +5,7 @@ description: Магазин Жили были, Kinderly.ru, Elc-russia.ru и н�
 date: 08.03.2018
 type: Подборка
 categories: compilation
+status: article
 image: /assets/img/jilibili-kinderly-elcrus-kideria-compressor.jpg
 ---
 

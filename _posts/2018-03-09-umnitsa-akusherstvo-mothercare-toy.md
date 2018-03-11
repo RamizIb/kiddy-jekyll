@@ -5,6 +5,7 @@ description: Сегодня у нас Акушерство.ру, Умница.р
 date: 09.03.2018
 type: Подборка
 categories: compilation
+status: article
 image: /assets/img/umnitsa-akusherstvo-mothercare-toyru-compressor.jpg
 ---
 

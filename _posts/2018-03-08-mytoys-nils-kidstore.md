@@ -5,6 +5,7 @@ description: MyToys.ru, Nils.ru, Kidstore.ru – детки довольны, м
 date: 08.03.2018
 type: Подборка
 categories: compilation
+status: article
 image: /assets/img/Mytoys-nils-kidstore-compressor.jpg
 ---
 
