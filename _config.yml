@@ -9,7 +9,7 @@
 encoding: "utf-8"
 permalink: /:categories/:title:output_ext
 name: Kiddy.today Journal
-title: Kiddy today 
+title: Kiddy today
 email: your-email@domain.com
 
 description: > # this means to ignore newlines until "baseurl:"

@@ -9,10 +9,22 @@
 
   transition: all 0.3s;
 
+  img {
+    transition: all 0.3s;
+  }
 }
 
-.post-card img {
+.post-card:hover {
 
+  img {
+    opacity: 0.85;
+    transition: all 0.3s;
+  }
+}
+
+.card__title:hover {
+  color: $link-hover-color;
+  transition: all 0.3s;
 }
 
 .card__body {
@@ -25,7 +37,7 @@
 .card__title {
   color: #4A245E;
 
-  margin-top: 15px;
+  margin-top: 5px;
   margin-bottom: 10px;
 
   font-size: 28px;
@@ -53,15 +65,4 @@
 
 .card__link {
 
-}
-
-.post-card:hover {
-
-  .card__title {
-    color: $link-hover-color;
-    transition: all 0.3s;
-  }
-
-  opacity: 0.9;
-  transition: all 0.3s;
 }
