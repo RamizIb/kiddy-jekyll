@@ -5,6 +5,7 @@ description: Сказки для развития детей играют огр
 date: 10.03.2018
 type: Обзор
 categories: review
+status: article
 image: /assets/img/myname-book-compressor.jpg
 ---
 

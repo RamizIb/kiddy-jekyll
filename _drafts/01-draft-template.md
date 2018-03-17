@@ -5,6 +5,7 @@ description: Вотоня, Олант и Акула...  что это такое
 date: 06.03.2018
 type: Подборка
 categories: compilation
+status: article
 image: /assets/img/votonia-olant-acoola-compressor.jpg
 ---
 
