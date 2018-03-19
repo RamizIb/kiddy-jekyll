@@ -1,0 +1,48 @@
+---
+layout: default
+title: Лучшее для детей и родителей в сети!
+description: Обзоры детских магазинов, товаров, игрушек, средств гигиены и новинок индустрии развлечения и обучения наших любимых деток! Все это и многое другое на Kiddy.today!
+status: website
+permalink: review/
+image: /assets/img/kiddy-today-share.jpg
+---
+
+<div class="container container--categories">
+
+  {% for post in site.categories.review %}
+  <div class="post-card">
+    <a href="{{ post.url }}">
+
+      {% if post.image %}
+      <img src="{{ post.image }}" alt="{{ post.title }}">
+      {% else %}
+      {% endif %}
+
+    </a>
+    <div class="card__body">
+      
+      <a href="{{ post.url }}">
+        <h3 class="card__title">{{ post.title }}</h3>
+      </a>
+      
+      {% if post.description %}
+      <div class="card__description">
+        <p>{{ post.description }}</p>
+      </div>
+      {% else %}
+      {% endif %}
+
+      <div class="card__date">
+        <i class="far fa-clock"></i>{% include date.html date=post.date %}
+        {% if post.type %}
+        <span class="card__type">{{ post.type }}</span>
+        {% else %}
+        {% endif %}
+      </div>
+
+    </div>
+
+  </div>
+  {% endfor %}
+
+</div><!-- /.container -->

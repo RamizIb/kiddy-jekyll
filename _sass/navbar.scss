@@ -1,5 +1,6 @@
 .navbar {
   display: flex;
+  justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
 
@@ -37,5 +38,18 @@
   li {
     display: inline-block;
     margin-right: 10px;
+
+    font-size: 18px;
+
+    a {
+
+      &:hover {
+        color: #bd1d00;
+      }
+    }
+  }
+
+  .navbar__active a {
+    font-weight: 600;
   }
 }

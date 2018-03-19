@@ -10,7 +10,7 @@ encoding: "utf-8"
 permalink: /:categories/:title:output_ext
 name: Kiddy.today Journal
 title: Kiddy today
-email: your-email@domain.com
+email: support@kiddy.today
 
 description: > # this means to ignore newlines until "baseurl:"
  Kiddy.today - журнал о детях и родителях, мы рассказываем где,как и что купить своим любимым чадам в сети. Лучшие детские магазины,новинки игрушек, одежды, средств гигиены, развивающие наборы. Мы любим детей и поэтому посоветуем вам только лучшее!
@@ -57,3 +57,12 @@ sitemap:
         - "/index.html"
     change_frequency_name: "change_frequency"
     priority_name: "priority"
+
+# Menu
+menu:
+  - url: /parents/
+    name: Родителям
+  - url: /review/
+    name: Обзоры
+  - url: /compilation/
+    name: Подборки
