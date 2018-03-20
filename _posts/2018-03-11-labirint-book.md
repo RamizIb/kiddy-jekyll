@@ -25,6 +25,10 @@ image: /assets/img/labirint-book-compressor.jpg
 
 Кроме того, есть вариант быстрого оформления покупки через звонок оператору. Служба поддержки работает круглосуточно, 7 дней в неделю. Для многих анонсированных книг доступен предзаказ, позволяющий гарантировано получить желанную новинку в первых рядах.
 
+<!-- admitad.banner: 2e7th4r6j4baaff9d7dd5ddd29e1bc Лабиринт -->
+<a class="ad-h" target="_blank" rel="nofollow" href="https://ad.admitad.com/g/2e7th4r6j4baaff9d7dd5ddd29e1bc/?i=4"><img width="728" height="90" border="0" src="https://ad.admitad.com/b/2e7th4r6j4baaff9d7dd5ddd29e1bc/" alt="Лабиринт"/></a>
+<!-- /admitad.banner -->
+
 ## Доставка и оплата
 
 Осуществляется во все регионы России. Можно заказать доставку курьерской службой или почтой РФ. Также по стране функционирует **1233 пункта самовывоза**, из них 406 – в Москве. Доставка за рубеж осуществляется почтовыми службами **DHL и Spring Global Mail**.
@@ -53,6 +57,6 @@ image: /assets/img/labirint-book-compressor.jpg
 
 Главными достоинствами этой онлайн площадки является хорошо продуманный интерфейс, удобный каталог и простая навигация, позволяющая находить нужный товар буквально в пару кликов. На сайте собрано много актуальной литературной и окололитературной информации, есть занимательные тесты, свежие новости и анонсы, увлекательные спецпроекты, которые обязательно понравятся всем любителям чтения.
 
-[Labirint.ru](https://www.labirint.ru/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
+[Labirint.ru](https://ad.admitad.com/g/07d6913cf6baaff9d7dd5ddd29e1bc/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
 
 </div><!-- /.post-block -->

@@ -25,12 +25,17 @@
   .container-footer {
 
     .footer__brand {
-      width: 48%;
+      width: 40%;
+    }
+
+    .footer__nav {
+      width: 20%;
     }
 
     .footer__contact {
-      width: 48%;
+      width: 30%;
     }
+
   }
 }
 
@@ -77,6 +82,13 @@
   }
 
   .container--categories {
+
+    .post-card {
+      width: 32%;
+    }
+  }
+
+  .container--related-post {
 
     .post-card {
       width: 32%;

@@ -60,6 +60,6 @@ image: /assets/img/mamsy-dochki-sunochki-gulliver-compressor.jpg
 
 Хотите порадовать ваше любимое чадо новинками детских игрушек — вам в Гулливер, добро пожаловать.
 
-[Gulliver-toys.ru](https://gulliver-toys.ru/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
+[Gulliver-toys.ru](https://ad.admitad.com/g/5ycoc0lnhpbaaff9d7dd7c100a6eac/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
 
 </div><!-- /.post-block -->

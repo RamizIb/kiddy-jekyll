@@ -17,6 +17,10 @@ image: /assets/img/jilibili-kinderly-elcrus-kideria-compressor.jpg
 
 В линейке товары известных отечественных и зарубежных производителей - Shantou Gepai, «Стрекоза», «Мозаика-Синтез», Djeco, Bondibon. На весь ассортимент есть сертификаты, подтверждающие их безвредность, безопасность для детей.
 
+<!-- admitad.banner: yxvo6p8935baaff9d7dd87f73c979d Жили-Были -->
+<a class="ad-h" target="_blank" rel="nofollow" href="https://ad.admitad.com/g/yxvo6p8935baaff9d7dd87f73c979d/?i=4"><img width="728" height="90" border="0" src="https://ad.admitad.com/b/yxvo6p8935baaff9d7dd87f73c979d/" alt="Жили-Были"/></a>
+<!-- /admitad.banner -->
+
 ### Ассортимент
 
 В каталоге представлены игрушки для детей различных возрастов. Ассортимент делится на товары для девочек и мальчиков. В магазине можно купить следующее:
@@ -32,7 +36,7 @@ image: /assets/img/jilibili-kinderly-elcrus-kideria-compressor.jpg
 
 Удобный каталог с иллюстрациями и подробным описанием каждого товара позволит быстро найти требуемую игрушку. А постоянные акции сделают покупки экономными в плане финансов. Также магазин предоставляет возможность обменять товар в течение 14 дней после покупки. Доставка осуществляется каждый день с 09:00 до 18:00.
 
-[Jili-bili.ru](https://jili-bili.ru/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
+[Jili-bili.ru](https://ad.admitad.com/g/fvbd5njipcbaaff9d7dd87f73c979d/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
 
 </div><!-- /.post-block -->
 
@@ -52,11 +56,15 @@ image: /assets/img/jilibili-kinderly-elcrus-kideria-compressor.jpg
 - Широкое разнообразие игрушек: настольные игры, конструкторы, интерактивные, на радиоуправлении.
 - Постельное белье и текстиль.
 
+<!-- admitad.banner: 6d4fc40279baaff9d7dd26496783af Kinderly -->
+<a class="ad-h" target="_blank" rel="nofollow" href="https://ad.admitad.com/g/6d4fc40279baaff9d7dd26496783af/?i=4"><img width="728" height="90" border="0" src="https://ad.admitad.com/b/6d4fc40279baaff9d7dd26496783af/" alt="Kinderly"/></a>
+<!-- /admitad.banner -->
+
 После покупки вы можете в течение месяца вернуть товар, если он по каким-то причинам вам не подошел. Также можете одновременно заказать несколько пар обуви ли одежды на примерку. Так вы сможете выбрать точный размер.
 
 Купить детские товары на сайте можно быстро и легко, благодаря понятному интерфейсу, удобному делению на фильтры и широкому ассортименту. По Москве действует курьерская доставка. Возможен самовывоз со склада компании.
 
-[Kinderly.ru](https://http://www.kinderly.ru/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
+[Kinderly.ru](https://ad.admitad.com/g/bbdb889152baaff9d7dd26496783af/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
 
 </div><!-- /.post-block -->
 
@@ -65,6 +73,10 @@ image: /assets/img/jilibili-kinderly-elcrus-kideria-compressor.jpg
 ## 3. Elc-russia.ru
 
 В интернет-магазине **Elc-russia.ru** представлены игрушки, развивающие у ребенка навыки общения, координации, обучающие чтению, развивающие социальные навыки, мышление и пр. В магазине представлена продукция собственного производства, а также других известных марок – Casdon, Chicco, Amigo, Angry Birds. В разработке игрушек участвуют детские психологи, известные дизайнеры. Результат их труда – качественная, безопасная продукция, приносящая пользу детям.
+
+<!-- admitad.banner: p3d6m01brbbaaff9d7dd3b3f9ded13 elc-russia.ru -->
+<a class="ad-h" target="_blank" rel="nofollow" href="https://ad.admitad.com/g/p3d6m01brbbaaff9d7dd3b3f9ded13/?i=4"><img width="728" height="90" border="0" src="https://ad.admitad.com/b/p3d6m01brbbaaff9d7dd3b3f9ded13/" alt="elc-russia.ru"/></a>
+<!-- /admitad.banner -->
 
 ### Ассортимент
 
@@ -80,7 +92,7 @@ image: /assets/img/jilibili-kinderly-elcrus-kideria-compressor.jpg
 
 В магазине часто действуют скидки и распродажи, что делает покупки еще более выгодными. Чтобы получить скидку, воспользуйтесь купоном и промокодом **Elc-russia**. При заказе товаров на сумму 1500 рублей и больше действует бесплатная доставка. Также возможна поставка по стране, стоимость которой зависит от отдаленности пункта назначения. Способы оплаты различные: на сайте банковской картой, наличными при доставке курьером.
 
-[Elc-russia.ru](https://www.elc-russia.ru/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
+[Elc-russia.ru](https://ad.admitad.com/g/zsg73b6xxzbaaff9d7dd3b3f9ded13/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
 
 </div><!-- /.post-block -->
 

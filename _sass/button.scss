@@ -33,6 +33,21 @@
   max-width: 250px;
 }
 
+.btn-top {
+  margin-top: 5px;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-left: auto;
+
+  padding-top: 8px;
+  padding-bottom: 8px;
+
+  width: 100%;
+  max-width: 150px;
+
+  font-size: 20px;
+}
+
 .btn:hover {
   color: #fff;
   background-color: #777;
@@ -55,5 +70,15 @@
   &:hover {
     color: #fff;
     background-color: #00a0e3;
+  }
+}
+
+.btn--red {
+  color: #ff0000;
+  border-color: #ff0000;
+
+  &:hover {
+    color: #fff;
+    background-color: #ff0000;
   }
 }

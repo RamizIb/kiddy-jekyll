@@ -19,14 +19,17 @@ image: /assets/img/Mytoys-nils-kidstore-compressor.jpg
 
 Цены очень приятные. К тому же регулярно проводятся распродажи. Все действующие предложения собраны в разделе **«Скидки и акции»**. Если подписаться на рассылку, то все интересные акции будут приходить прямиком на почту.
 
+<!-- admitad.banner: 1b44f90b2dbaaff9d7dd6fc015d692 myToys -->
+<a class="ad-h" target="_blank" rel="nofollow" href="https://ad.admitad.com/g/1b44f90b2dbaaff9d7dd6fc015d692/?i=4"><img width="728" height="90" border="0" src="https://ad.admitad.com/b/1b44f90b2dbaaff9d7dd6fc015d692/" alt="myToys"/></a>
+<!-- /admitad.banner -->
+
 Выбор товаров просто огромен и для удобства клиентов весь ассортимент разделен на несколько ключевых категорий – от игрушек, книг и одежды до товаров для новорожденных. Много всемирно известных брендов: **Lego, Fisher Price, Play-Doh, Hasbro** и так далее.
 
 Доставка осуществляется по всей территории страны почтой России или курьерскими службами (DHL, МаксиПост, Hermes, Boxberry). Доступна оплата банковской карточкой (VISA, MasterCard) или наличными при получении.
 
 **MyToys** – незаменимый магазин для мам и деток! Его ключевыми достоинствами являются широкий ассортимент, доступные цены и компетентный персонал.
 
-[MyToys.ru](http://www.mytoys.ru/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
-
+[MyToys.ru](https://ad.admitad.com/g/9bb6c9b136baaff9d7dd6fc015d692/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
 
 </div><!-- /.post-block -->
 
@@ -52,6 +55,10 @@ image: /assets/img/Mytoys-nils-kidstore-compressor.jpg
 
 **Kidstore** – крупный интернет-магазин игрушек, одежды, мебели и сопутствующих товаров для детей. Дружественный интерфейс сайта (все товары удобно рассортированы по категориям и подразделам, наличие фильтров, отдельный прайс) и профессиональные консультанты делают покупки беспроблемными и очень приятными!
 
+<!-- admitad.banner: 37a4740e8fbaaff9d7dd72d11aeed7 KidStore -->
+<a class="ad-h" target="_blank" rel="nofollow" href="https://ad.admitad.com/g/37a4740e8fbaaff9d7dd72d11aeed7/?i=4"><img width="728" height="90" border="0" src="https://ad.admitad.com/b/37a4740e8fbaaff9d7dd72d11aeed7/" alt="KidStore"/></a>
+<!-- /admitad.banner -->
+
 ### Ключевые достоинства магазина:
 
 - Широкий ассортимент товаров (более 30 000 наименований) от известных мировых брендов
@@ -68,6 +75,6 @@ image: /assets/img/Mytoys-nils-kidstore-compressor.jpg
 
 **Kidstore** – магазин, который дорожит своей репутацией и клиентами. Об этом говорит не только профессиональное обслуживание, бонусы и регулярные скидки, но и искреннее желание удовлетворить запросы своих покупателей. 
 
-[Kidstore.ru](https://kidstore.ru/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
+[Kidstore.ru](https://ad.admitad.com/g/3fe6f9bc4fbaaff9d7dd72d11aeed7/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
 
 </div><!-- /.post-block -->

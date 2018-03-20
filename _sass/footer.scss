@@ -27,6 +27,7 @@
 .footer__brand {
 
   width: 100%;
+  margin-bottom: 10px;
 
   .footer__brand-link {
     font-size: 20px;
@@ -43,8 +44,19 @@
   }
 }
 
-.footer__contact {
-
+.footer__nav {
   width: 100%;
+  margin-bottom: 10px;
 
+  .navbar__ul li {
+    display: block;
+
+    a {
+      font-weight: 400;
+    }
+  }
+}
+
+.footer__contact {
+  width: 100%;
 }

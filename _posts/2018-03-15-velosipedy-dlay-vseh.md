@@ -31,6 +31,10 @@ image: /assets/img/velosipedu-dlya-vseh-compressor.jpg
 
 6. Велозапчасти и аксессуары. Также на сайте представлены шлемы, крылья, велокомпьютеры, инструменты, детские велокресла, специальная одежда.
 
+<!-- admitad.banner: 5xjkb39s32baaff9d7dd8148c2f462 vamvelosiped.ru -->
+<a class="ad-h" target="_blank" rel="nofollow" href="https://ad.admitad.com/g/5xjkb39s32baaff9d7dd8148c2f462/?i=4"><img width="728" height="90" border="0" src="https://ad.admitad.com/b/5xjkb39s32baaff9d7dd8148c2f462/" alt="vamvelosiped.ru"/></a>
+<!-- /admitad.banner -->
+
 ## Преимущества покупок в **ВашВелосипед**
 
 Разнообразие предложения велосипедов позволит оперативно найти именно ту модель, которая соответствует вашим пожеланиям и требованиям. Стоимость товара зависит от производителя, типа, используемых для изготовления металлов и других показателей.  К тому же на сайте есть раздел, где можно найти велосипеды и велотовары со скидками. Для зарегистрированных пользователей действуют дополнительные скидки.
@@ -46,6 +50,6 @@ image: /assets/img/velosipedu-dlya-vseh-compressor.jpg
 
 Чтобы купить велосипед в магазине, достаточно отправить его в корзину и оформить покупку. После чего оперативно организуется доставка заказа. Успехов!
 
-[Vamvelosiped.ru](https://vamvelosiped.ru/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
+[Vamvelosiped.ru](https://ad.admitad.com/g/0eayrbpvrkbaaff9d7dd8148c2f462/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
 
 </div><!-- /.post-block -->

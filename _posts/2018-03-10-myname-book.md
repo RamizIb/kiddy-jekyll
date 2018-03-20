@@ -25,6 +25,10 @@ image: /assets/img/myname-book-compressor.jpg
 
 ## Ваш ребенок – главный герой
 
+<!-- admitad.banner: 4l5sj5hoizbaaff9d7dd4c2fcac89a Mynamebook -->
+<a class="ad-h" target="_blank" rel="nofollow" href="https://ad.admitad.com/g/4l5sj5hoizbaaff9d7dd4c2fcac89a/?i=4"><img width="728" height="90" border="0" src="https://ad.admitad.com/b/4l5sj5hoizbaaff9d7dd4c2fcac89a/" alt="Mynamebook"/></a>
+<!-- /admitad.banner -->
+
 Индивидуальная книга – это красочное издание с красивыми иллюстрациями, увлекательным сюжетом и необычными стихами. Теперь можно подарить малышу не просто интересную сказку, а волнующую историю, в которой он будет **главным героем**!
 
 Все сюжетные линии написаны с большой любовью к детям, поэтому в них можно встретить только добрых и положительных персонажей, которые проявляют лучшее человеческие качества: доброту, честность, взаимовыручку и поддержку.
@@ -59,6 +63,6 @@ image: /assets/img/myname-book-compressor.jpg
 
 И папы, и мамы солидарны во мнении, что лучшая награда за их труды – восторженные глаза крохи. **Mynamebook** – это настоящая находка для родителей, которые хотят удивить и порадовать собственного ребенка! Если ваш малыш любит сказки и часто представляет себя на месте главных героев, подарите ему индивидуальную книгу, он непременно это оценит!
 
-[Mynamebook.ru](http://mynamebook.ru/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
+[Mynamebook.ru](https://ad.admitad.com/g/btrwxhru7mbaaff9d7dd4c2fcac89a/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
 
 </div><!-- /.post-block -->
