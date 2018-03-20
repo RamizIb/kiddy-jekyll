@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss
+    version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:yandex="http://news.yandex.ru"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:turbo="http://turbo.yandex.ru"
+    version="2.0"
+    >
+
   <channel>
     <title>Kiddy today</title>
     <description>Kiddy.today - журнал о детях и родителях, мы рассказываем где,как и что купить своим любимым чадам в сети. Лучшие детские магазины,новинки игрушек, одежды, средств гигиены, развивающие наборы. Мы любим детей и поэтому посоветуем вам только лучшее!
 </description>
     <link>https://kiddy.today/</link>
     <atom:link href="https://kiddy.today/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Mar 2018 14:05:44 +0300</pubDate>
+    <pubDate>Tue, 20 Mar 2018 19:39:48 +0300</pubDate>
 
     <author>RamizIb</author>
 
-    <lastBuildDate>Tue, 20 Mar 2018 14:05:44 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 20 Mar 2018 19:39:48 +0300</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
-      <item>
+      <item turbo="true">
         <title>Онлайн магазин Русалют – фейерверки на все случаи жизни!</title>
         
-        <content:encoded>&lt;div class=&quot;post-block&quot;&gt;
+        <turbo:content>
+            <![CDATA[
+            &lt;div class=&quot;post-block&quot;&gt;
 
   &lt;p&gt;Сложно представить по-настоящему грандиозный праздник без ярких и красочных фейерверков! Интернет-магазин &lt;strong&gt;Русалют&lt;/strong&gt; предлагает широкий выбор сертифицированной пиротехники по доступным ценам с доставкой в любой уголок России! У вас есть отличная возможность подарить себе и своим детям настоящую сказку!&lt;/p&gt;
 
@@ -70,7 +80,9 @@
 
 &lt;/div&gt;
 &lt;!-- /.post-block --&gt;
-</content:encoded>
+
+            ]]>
+        </turbo:content>
 
         <enclosure url="https://kiddy.today/assets/img/salut-compressor.jpg" type="image/jpeg"/>
 
@@ -83,10 +95,12 @@
         
       </item>
     
-      <item>
+      <item turbo="true">
         <title>Hamleys – волшебный мир игрушек!</title>
         
-        <content:encoded>&lt;div class=&quot;post-block&quot;&gt;
+        <turbo:content>
+            <![CDATA[
+            &lt;div class=&quot;post-block&quot;&gt;
 
   &lt;p&gt;&lt;strong&gt;Хэмлис&lt;/strong&gt; – один из самых больших онлайн-магазинов детских игрушек, наборов для творчества, канцелярских принадлежностей и сувенирной продукции в России. В ассортименте товары таких известных брендов, как &lt;strong&gt;Lego, Fisher-Price, Barbie, Hot Wheels, Play-Doh&lt;/strong&gt;. К преимуществам торговой площадки можно отнести удобную навигацию, быструю обработку заказов, качественную клиентскую поддержку и доставку во все регионы России.&lt;/p&gt;
 
@@ -135,7 +149,9 @@
 
 &lt;/div&gt;
 &lt;!-- /.post-block --&gt;
-</content:encoded>
+
+            ]]>
+        </turbo:content>
 
         <enclosure url="https://kiddy.today/assets/img/hamles-toys-compressor.jpg" type="image/jpeg"/>
 
@@ -148,10 +164,12 @@
         
       </item>
     
-      <item>
+      <item turbo="true">
         <title>Велосипеды для детей и их родителей.</title>
         
-        <content:encoded>&lt;div class=&quot;post-block&quot;&gt;
+        <turbo:content>
+            <![CDATA[
+            &lt;div class=&quot;post-block&quot;&gt;
 
   &lt;p&gt;Современный образ жизни невозможно представить без динамики, здоровья и радости. Велосипед - отличный способ чувствовать себя всегда молодым, активным и покоряющим новые высоты. Спортивные гонки и неспешные путешествия, выезды на пикник за город и соревнования между друзьями – во всех этих случаях велосипед становится незаменимой составляющей.&lt;/p&gt;
 
@@ -205,7 +223,9 @@
 
 &lt;/div&gt;
 &lt;!-- /.post-block --&gt;
-</content:encoded>
+
+            ]]>
+        </turbo:content>
 
         <enclosure url="https://kiddy.today/assets/img/velosipedu-dlya-vseh-compressor.jpg" type="image/jpeg"/>
 
@@ -218,10 +238,12 @@
         
       </item>
     
-      <item>
+      <item turbo="true">
         <title>Игрушки и другие товары из Поднебесной.</title>
         
-        <content:encoded>&lt;div class=&quot;post-block&quot;&gt;
+        <turbo:content>
+            <![CDATA[
+            &lt;div class=&quot;post-block&quot;&gt;
 
   &lt;p&gt;На сегодняшний день наши рынки заполонила продукция из &lt;strong&gt;Китая&lt;/strong&gt;. Одежда, игрушки, обувь и техника производится именно в этой стране.&lt;/p&gt;
 
@@ -247,7 +269,9 @@
 
 &lt;/div&gt;
 &lt;!-- /.post-block --&gt;
-</content:encoded>
+
+            ]]>
+        </turbo:content>
 
         <enclosure url="https://kiddy.today/assets/img/chinese-toys-compressor.jpg" type="image/jpeg"/>
 
@@ -260,10 +284,12 @@
         
       </item>
     
-      <item>
+      <item turbo="true">
         <title>Детский макияж - легко!</title>
         
-        <content:encoded>&lt;div class=&quot;post-block&quot;&gt;
+        <turbo:content>
+            <![CDATA[
+            &lt;div class=&quot;post-block&quot;&gt;
 
   &lt;p&gt;В жизни каждой матери возникает ситуация, когда маленькая модница в первый раз просит ее накрасить. Поначалу это может вызывать страх и беспокойство, ведь детская кожа еще очень восприимчива к различным вредным веществам в составе косметики. Но сделать все правильно и без ущерба юной красавице не так сложно, как может показаться. Советы будут полезны как родителям, так и девочкам-подросткам, которые хотят освоить тонкости легкого и неброского макияжа.&lt;/p&gt;
 
@@ -307,7 +333,9 @@
 
 &lt;/div&gt;
 &lt;!-- /.post-block --&gt;
-</content:encoded>
+
+            ]]>
+        </turbo:content>
 
         <enclosure url="https://kiddy.today/assets/img/kiddy-makeup-compressor.jpg" type="image/jpeg"/>
 
@@ -320,10 +348,12 @@
         
       </item>
     
-      <item>
+      <item turbo="true">
         <title>Общение детей со сверстниками - детская дружба</title>
         
-        <content:encoded>&lt;div class=&quot;post-block&quot;&gt;
+        <turbo:content>
+            <![CDATA[
+            &lt;div class=&quot;post-block&quot;&gt;
 
   &lt;p&gt;Проблемы между родителями и их подрастающими детьми рано или поздно возникают в каждой семье. К этому приводит существенная разница в возрасте, а также не совпадающие взгляды на различные жизненные аспекты. Дети, как правило, не понимают, что родители вмешиваются в их жизнь, потому что переживают и заботятся об их будущем.&lt;/p&gt;
 
@@ -341,7 +371,9 @@
 
 &lt;/div&gt;
 &lt;!-- /.post-block --&gt;
-</content:encoded>
+
+            ]]>
+        </turbo:content>
 
         <enclosure url="https://kiddy.today/assets/img/kiddy-friends-compressor.jpg" type="image/jpeg"/>
 
@@ -354,10 +386,12 @@
         
       </item>
     
-      <item>
+      <item turbo="true">
         <title>Labirint.ru – огромный ассортимент книг на любой вкус!</title>
         
-        <content:encoded>&lt;div class=&quot;post-block&quot;&gt;
+        <turbo:content>
+            <![CDATA[
+            &lt;div class=&quot;post-block&quot;&gt;
 
   &lt;p&gt;&lt;strong&gt;«Лабиринт»&lt;/strong&gt; – один из крупнейших онлайн-магазинов книг, канцелярских товаров и развивающих игрушек в России. Его ассортимент состоит из более чем 200 000 наименований. Здесь можно найти не только художественную литературу, публицистику, журналы, учебники и деловые издания, но и музыку, фильмы, а также софт (программы) по доступным ценам.&lt;/p&gt;
 
@@ -415,7 +449,9 @@
 
 &lt;/div&gt;
 &lt;!-- /.post-block --&gt;
-</content:encoded>
+
+            ]]>
+        </turbo:content>
 
         <enclosure url="https://kiddy.today/assets/img/labirint-book-compressor.jpg" type="image/jpeg"/>
 
@@ -428,10 +464,12 @@
         
       </item>
     
-      <item>
+      <item turbo="true">
         <title>Mynamebook.ru – порадуйте малыша индивидуальной книгой!</title>
         
-        <content:encoded>&lt;div class=&quot;post-block&quot;&gt;
+        <turbo:content>
+            <![CDATA[
+            &lt;div class=&quot;post-block&quot;&gt;
 
   &lt;p&gt;Кто из родителей не ломал голову над тем, что же подарить своему ребенку? Ведь так хочется, чтобы подарок не просто понравился, а произвел неизгладимое впечатление. Если банальные игрушки уже приелись, то пришло время для книги. Но книги не обычной, а персональной!&lt;/p&gt;
 
@@ -490,7 +528,9 @@
 
 &lt;/div&gt;
 &lt;!-- /.post-block --&gt;
-</content:encoded>
+
+            ]]>
+        </turbo:content>
 
         <enclosure url="https://kiddy.today/assets/img/myname-book-compressor.jpg" type="image/jpeg"/>
 
@@ -503,10 +543,12 @@
         
       </item>
     
-      <item>
+      <item turbo="true">
         <title>Выбираем одежду детям</title>
         
-        <content:encoded>&lt;div class=&quot;post-block&quot;&gt;
+        <turbo:content>
+            <![CDATA[
+            &lt;div class=&quot;post-block&quot;&gt;
 
   &lt;p&gt;В современных магазинах огромный выбор товаров, в том числе одежды. Этот тип товара, который пользуется спросом всегда. Отдельной категорией здесь является – детская одежда. Дети растут очень и очень быстро, особенно в самом начале жизни, после рождения и требуется множество необходимых вещей. Каждый родитель сталкивался с проблемой выбора качественной одежды по адекватной цене. Не всегда работает формула, чем дороже – тем лучше. Иногда совсем наоборот бывает, вещь купленная за несколько сотен служит верой и правдой, радует своим качеством. Как же определить, что та или иная вещь хороша? На что в первую очередь обратить внимание? Где лучше обновлять гардероб своему ребёнку?&lt;/p&gt;
 
@@ -555,7 +597,9 @@
 
 &lt;/div&gt;
 &lt;!-- /.post-block --&gt;
-</content:encoded>
+
+            ]]>
+        </turbo:content>
 
         <enclosure url="https://kiddy.today/assets/img/kak-vubrat-odejdy-detyam-compressor.jpg" type="image/jpeg"/>
 
@@ -568,10 +612,12 @@
         
       </item>
     
-      <item>
+      <item turbo="true">
         <title>Детские магазины, №6</title>
         
-        <content:encoded>&lt;div class=&quot;post-block&quot;&gt;
+        <turbo:content>
+            <![CDATA[
+            &lt;div class=&quot;post-block&quot;&gt;
 
   &lt;p&gt;Очереди. Я просто ненавижу очереди. Поэтому предпочитаю интернет-магазины. Конечно, если прямо сейчас нужен хлеб к обеду, то лучше сходить в магазин, а если покупка не срочная, а запланированная, то гораздо удобнее и интереснее выбирать в онлайн-магазине с хорошим выбором и качественными фотографиями.&lt;/p&gt;
 
@@ -627,7 +673,9 @@
 
 &lt;/div&gt;
 &lt;!-- /.post-block --&gt;
-</content:encoded>
+
+            ]]>
+        </turbo:content>
 
         <enclosure url="https://kiddy.today/assets/img/mamsy-dochki-sunochki-gulliver-compressor.jpg" type="image/jpeg"/>
 
