@@ -4,5 +4,5 @@ $("a[href='#top']").click(function() {
 });
 
 $(".menu-toggle").click(function(){
-  $(".navbar__ul").toggleClass("navbar__ul-open");
+  $(".navbar__ul-top").toggleClass("navbar__ul-open");
 });
