@@ -5,7 +5,6 @@
     xmlns:yandex="http://news.yandex.ru"
     xmlns:media="http://search.yahoo.com/mrss/"
     xmlns:turbo="http://turbo.yandex.ru"
-    version="2.0"
     >
 
   <channel>
@@ -14,11 +13,11 @@
 </description>
     <link>https://kiddy.today/</link>
     <atom:link href="https://kiddy.today/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Mar 2018 19:39:48 +0300</pubDate>
+    <pubDate>Thu, 22 Mar 2018 12:57:38 +0300</pubDate>
 
     <author>RamizIb</author>
 
-    <lastBuildDate>Tue, 20 Mar 2018 19:39:48 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 22 Mar 2018 12:57:38 +0300</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item turbo="true">

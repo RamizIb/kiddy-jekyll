@@ -2,4 +2,45 @@
 layout: default
 permalink: /404.html
 ---
-Oooopss! Page not found! :(
+
+<div class="container">
+  <div class="error">
+    <p>У нас пока нет такой страницы! :(</p>
+    <p>Но есть другие!</p>
+  </div>
+</div>
+
+<div class="container">
+  {% for post in site.related_posts limit:6 %}
+  <div class="post-card">
+    <a href="{{ post.url }}">
+
+      {% if post.image %}
+      <img src="{{ post.image }}" alt="{{ post.title }}">
+      {% else %}
+      {% endif %}
+
+      <div class="card__body">
+
+        <h3 class="card__title">{{ post.title }}</h3>
+
+        {% if post.description %}
+        <div class="card__description">
+          <p>{{ post.description }}</p>
+        </div>
+        {% else %}
+        {% endif %}
+
+        <div class="card__date">
+          <i class="far fa-clock"></i>{% include date.html date=post.date %}
+          {% if post.type %}
+          <span class="card__type">{{ post.type }}</span>
+          {% else %}
+          {% endif %}
+        </div>
+
+      </div>
+    </a>
+  </div>
+  {% endfor %}
+</div>

@@ -1,4 +1,12 @@
-@media (min-width: 700px) {
+@media screen and (min-width: 700px) {
+
+  .navbar__ul {
+    display: block;
+  }
+
+  .menu-toggle {
+    display: none;
+  }
 
   .container {
     padding-left: 30px;
@@ -39,11 +47,11 @@
   }
 }
 
-@media (min-width: 960px) {
+@media screen and (min-width: 960px) {
   
 }
 
-@media (min-width: 1000px) {
+@media screen and (min-width: 1000px) {
 
   .post-card {
     width: 32%;
