@@ -33,27 +33,30 @@ layout: default
       {% else %}
       {% endif %}
 
-      <div class="card__body">
-
+    </a>
+    <div class="card__body">
+      
+      <a href="{{ post.url }}">
         <h3 class="card__title">{{ post.title }}</h3>
-        
-        {% if post.description %}
-        <div class="card__description">
-          <p>{{ post.description }}</p>
-        </div>
+      </a>
+      
+      {% if post.description %}
+      <div class="card__description">
+        <p>{{ post.description }}</p>
+      </div>
+      {% else %}
+      {% endif %}
+
+      <div class="card__date">
+        <i class="far fa-clock"></i>{% include date.html date=post.date %}
+        {% if post.type %}
+        <span class="card__type">{{ post.type }}</span>
         {% else %}
         {% endif %}
-
-        <div class="card__date">
-          <i class="far fa-clock"></i>{% include date.html date=post.date %}
-          {% if post.type %}
-          <span class="card__type">{{ post.type }}</span>
-          {% else %}
-          {% endif %}
-        </div>
-
       </div>
-    </a>
+
+    </div>
+
   </div>
   {% endfor %}
 
