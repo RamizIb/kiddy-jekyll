@@ -67,3 +67,10 @@ menu:
     name: Обзоры
   - url: /compilation/
     name: Подборки
+  - url: /rating-store/
+    name: Рейтинг
+
+# Collections
+collections:
+  rating-store:
+    output: true

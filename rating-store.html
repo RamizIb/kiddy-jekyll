@@ -1,0 +1,40 @@
+---
+layout: default
+title: Рейтинг магазинов детских товаров
+description: В сети много различных интернет-магазинов для детей и родителей. Есть крупные магазины с огромным ассортиментом, тут и одежда, обувь, и развивающие игрушки, подарки, средства гигиены и многое другое. А есть магазины авторские, продающие изделия ручной работы. Как не растеряться при таком выборе? Мы еженедельно составляем для вас рейтинг лучших, по нашему мнению, магазинов товаров для детей, с учетом надежности, приемлемых цен, полноты выбора, условий доставки и оплаты, и конечно, исходя из отзывов покупателей. Пользуйтесь на здоровье!
+desc-short: Еженедельный рейтинг лучших магазинов товаров для детей и их родителей
+status: website
+image: /assets/img/kiddy-today-share.jpg
+permalink: rating-store/
+---
+
+<div class="container container--rating-store">
+
+  <div class="rating-page__title">
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.desc-short }}</p>
+  </div>
+
+  {% for item in site.rating-store %}
+  <div class="rating-block">
+
+    <img class="rating__img" src="{{ item.image }}" alt="{{ item.title }}">
+
+    <div class="rating__content">
+      <h2>{{ item.title }}</h2>
+      <p>{{ item.description }}</p>
+      <p>Год открытия: {{ item.year }} год</p>
+      <p>Доставка: {{ item.delivery }}</p>
+    </div>
+
+    <a href="{{ item.url-ad }}" class="rating__link btn btn--rating btn--red" target="_blank">Перейти</a>
+
+    <div class="rating__assortment">
+      <span>Категории: {{ item.assortment }}</span>
+      <span>{{ item.discounts }}</span>
+    </div>
+
+  </div><!-- /.rating-block -->
+  {% endfor %}
+
+</div><!-- /.container -->
