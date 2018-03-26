@@ -1,9 +1,22 @@
 @media screen and (min-width: 500px) {
+
+  .rating-page__title {
+
+    padding-left: 20px;
+    padding-right: 20px;
+
+    h1 {
+      font-size: 36px;
+    }
+  }
   
   .rating-block {
 
     flex-direction: row;
     align-items: center;
+
+    padding: 20px;
+    padding-bottom: 5px;
 
     .rating__img {
       width: 45%;
@@ -91,6 +104,11 @@
       width: 30%;
     }
 
+  }
+
+  .card__body  {
+    padding-left: 15px;
+    padding-right: 15px;
   }
 }
 
