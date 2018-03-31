@@ -15,11 +15,11 @@ image: /assets/img/jilibili-kinderly-elcrus-kideria-compressor.jpg
 
 Современные игрушки созданы не только для игр и развлечений, но и могут послужить наглядным обучающим материалом для детей. Звонкие погремушки учат малышей различать звуки. Мобили над кроватками помогают освоить цвета, развивают зрение. Малышам чуть старше познать окружающий мир помогают яркие кубики, игровые центры, конструкторы. Продажей качественных игрушек ведущих производителей занимается интернет-магазин **«Жили-Были»**.
 
-В линейке товары известных отечественных и зарубежных производителей - Shantou Gepai, «Стрекоза», «Мозаика-Синтез», Djeco, Bondibon. На весь ассортимент есть сертификаты, подтверждающие их безвредность, безопасность для детей.
-
 <!-- admitad.banner: yxvo6p8935baaff9d7dd87f73c979d Жили-Были -->
 <a class="ad-h" target="_blank" rel="nofollow" href="https://ad.admitad.com/g/yxvo6p8935baaff9d7dd87f73c979d/?i=4"><img width="728" height="90" border="0" src="https://ad.admitad.com/b/yxvo6p8935baaff9d7dd87f73c979d/" alt="Жили-Были"/></a>
 <!-- /admitad.banner -->
+
+В линейке товары известных отечественных и зарубежных производителей - Shantou Gepai, «Стрекоза», «Мозаика-Синтез», Djeco, Bondibon. На весь ассортимент есть сертификаты, подтверждающие их безвредность, безопасность для детей.
 
 ### Ассортимент
 
@@ -46,6 +46,10 @@ image: /assets/img/jilibili-kinderly-elcrus-kideria-compressor.jpg
 
 **Kinderly.ru** – популярный интернет-магазин, реализующий товары для детей от рождения до 12 лет. В линейке одежда и обувь таких производителей, как Boom by Orby, Huppa, Lassie, Oldos, Dakottakids, Didriksons, Premont и др. На весь ассортимент есть сертификаты, подтверждающие их высокое качество и безвредность для детей.
 
+<!-- admitad.banner: 6d4fc40279baaff9d7dd26496783af Kinderly -->
+<a class="ad-h" target="_blank" rel="nofollow" href="https://ad.admitad.com/g/6d4fc40279baaff9d7dd26496783af/?i=4"><img width="728" height="90" border="0" src="https://ad.admitad.com/b/6d4fc40279baaff9d7dd26496783af/" alt="Kinderly"/></a>
+<!-- /admitad.banner -->
+
 ### Что представлено в каталоге?
 
 В магазине можно заказать следующие товары:
@@ -55,10 +59,6 @@ image: /assets/img/jilibili-kinderly-elcrus-kideria-compressor.jpg
 - Зимняя, летняя, демисезонная, ортопедическая обувь.
 - Широкое разнообразие игрушек: настольные игры, конструкторы, интерактивные, на радиоуправлении.
 - Постельное белье и текстиль.
-
-<!-- admitad.banner: 6d4fc40279baaff9d7dd26496783af Kinderly -->
-<a class="ad-h" target="_blank" rel="nofollow" href="https://ad.admitad.com/g/6d4fc40279baaff9d7dd26496783af/?i=4"><img width="728" height="90" border="0" src="https://ad.admitad.com/b/6d4fc40279baaff9d7dd26496783af/" alt="Kinderly"/></a>
-<!-- /admitad.banner -->
 
 После покупки вы можете в течение месяца вернуть товар, если он по каким-то причинам вам не подошел. Также можете одновременно заказать несколько пар обуви ли одежды на примерку. Так вы сможете выбрать точный размер.
 

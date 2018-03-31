@@ -13,6 +13,10 @@ image: /assets/img/hamles-toys-compressor.jpg
 
 **Хэмлис** – один из самых больших онлайн-магазинов детских игрушек, наборов для творчества, канцелярских принадлежностей и сувенирной продукции в России. В ассортименте товары таких известных брендов, как **Lego, Fisher-Price, Barbie, Hot Wheels, Play-Doh**. К преимуществам торговой площадки можно отнести удобную навигацию, быструю обработку заказов, качественную клиентскую поддержку и доставку во все регионы России.
 
+<!-- admitad.banner: ygrvkvjq7ibaaff9d7dd91091bf458 Hamleys -->
+<a class="ad-h" target="_blank" rel="nofollow" href="https://ad.admitad.com/g/ygrvkvjq7ibaaff9d7dd91091bf458/?i=4"><img width="728" height="90" border="0" src="https://ad.admitad.com/b/ygrvkvjq7ibaaff9d7dd91091bf458/" alt="Hamleys"/></a>
+<!-- /admitad.banner -->
+
 ## Первые впечатления
 
 Главная страница **Hamleys** выглядит стильно и аккуратно. Центральное место отведено каталогу товаров, который ради удобства разбит на 15 ключевых категорий (Мягкие игрушки, Транспорт, Куклы и так далее).
@@ -24,10 +28,6 @@ image: /assets/img/hamles-toys-compressor.jpg
 ## Как совершить покупку
 
 Для этого нужно добавить интересующий товар в корзину и перейти к оформлению заказа, введя свои контактные данные и выбрав наиболее удобный способ оплаты и доставки. Если у вас есть вопросы или необходима консультация, можно позвонить по контактному телефону, который указан на сайте. Операторы принимают звонки с 10:00 утра до 22:00 вечера.
-
-<!-- admitad.banner: ygrvkvjq7ibaaff9d7dd91091bf458 Hamleys -->
-<a class="ad-h" target="_blank" rel="nofollow" href="https://ad.admitad.com/g/ygrvkvjq7ibaaff9d7dd91091bf458/?i=4"><img width="728" height="90" border="0" src="https://ad.admitad.com/b/ygrvkvjq7ibaaff9d7dd91091bf458/" alt="Hamleys"/></a>
-<!-- /admitad.banner -->
 
 ## Доставка и оплата
 
