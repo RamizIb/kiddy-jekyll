@@ -1,7 +1,7 @@
 ---
 layout: single-post
 title: Детские магазины, подборка №7
-description: Сегодня просто эксклюзив по одежде! Vans, Timberland и Orby - модные вещи для наших деток. И конечно, для мам и пап.
+description: Сегодня просто эксклюзив по одежде! Vans, Timberland и Orby - модные вещи для наших деток.
 date: 21.03.2018
 type: Подборка
 categories: compilation
