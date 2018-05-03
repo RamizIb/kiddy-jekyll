@@ -143,21 +143,22 @@
     width: 32%;
   }
 
+
   .post-card:first-child {
     width: 62%;
   }
-
   .post-card:nth-child(2) {
     width: 36%;
   }
 
+
   .post-card:nth-child(6) {
     width: 48%;
   }
-
   .post-card:nth-child(7) {
     width: 48%;
   }
+
 
   .post-card:nth-child(8) {
     width: 41%;
@@ -168,6 +169,33 @@
   .post-card:nth-child(10) {
     width: 28%;
   }
+
+
+  .post-card:nth-child(11) {
+    display: flex;
+    width: 100%;
+
+    .card__body {
+      width: 100%;
+    }
+  }
+  .post-card:nth-child(12) {
+    display: flex;
+    width: 100%;
+
+    .card__body {
+      width: 100%;
+    }
+  }
+  .post-card:nth-child(13) {
+    display: flex;
+    width: 100%;
+
+    .card__body {
+      width: 100%;
+    }
+  }
+
 
   .post-card:nth-child(17) {
     width: 41%;

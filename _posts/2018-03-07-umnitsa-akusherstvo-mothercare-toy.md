@@ -106,6 +106,10 @@ image: /assets/img/umnitsa-akusherstvo-mothercare-toyru-compressor.jpg
 
 **Toy.ru** – крупнейший в стране интернет-магазин, занимающийся продажей детских игрушек. В линейке представлены товары для мальчиков и девочек, на любые возрастные группы и вкусовые предпочтения.
 
+<!-- admitad.banner: 1awvd71oj1baaff9d7dd19ac1b781b Toy.ru -->
+<a class="ad-h" target="_blank" rel="nofollow" href="https://ad.admitad.com/g/1awvd71oj1baaff9d7dd19ac1b781b/?i=4"><img width="600" height="90" border="0" src="https://ad.admitad.com/b/1awvd71oj1baaff9d7dd19ac1b781b/" alt="Toy.ru"/></a>
+<!-- /admitad.banner -->
+
 Магазин представляет исключительно продукцию известных марок: Disney, LEGO, Peg Perego, 
 Tomy, Little Tikes, 
 Meccano и пр.
@@ -132,5 +136,5 @@ Meccano и пр.
 
 3. Прием заказов осуществляется круглосуточно, поэтому воспользоваться магазином можете в любое удобное для вас время.
 
-[Toy.ru](https://www.toy.ru/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
+[Toy.ru](https://ad.admitad.com/g/49218b2656baaff9d7dd19ac1b781b/){:.btn .btn-post .btn--pink target="_blank" rel="nofollow noopener"}
 </div><!-- /.post-block -->

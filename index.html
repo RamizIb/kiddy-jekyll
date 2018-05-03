@@ -32,7 +32,7 @@ image: /assets/img/kiddy-today-share.jpg
       {% endif %}
 
       <div class="card__date">
-        <i class="far fa-clock"></i>{% include date.html date=post.date %}
+        <span><i class="far fa-clock"></i>{% include date.html date=post.date %}</span>
         {% if post.type %}
         <span class="card__type">{{ post.type }}</span>
         {% else %}
